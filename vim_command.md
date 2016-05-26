@@ -1,18 +1,17 @@
 ## vim comannd(1)
 
-### vim normal mode comannd list
+### vim nomal mode comannd list
 
 1. h - cursor moves left
-1. j
-1. k
-1. l
-1. :q!
-1. :wq
-1. x
-1. i
-1. I
-1. a
-1. A
+1. j - cursor moves up
+1. k -cursor moves down
+1. l -cursor moves right
+1. :q!-quit without writing
+1. :wq-write the current file and exit
+1. i -insert text before the crusor
+1. I -insert text before the first non blankin the line
+1. a -append text after the crusor
+1. A -append text at the end of line
 1. d
 1. w
 1. e
